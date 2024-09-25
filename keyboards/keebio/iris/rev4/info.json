@@ -29,6 +29,6 @@
             }
         }
     },
-    "processor": "atmega32u4",
-    "bootloader": "qmk-dfu"
+    "processor": "RP2040",
+    "bootloader": "rp2040"
 }
